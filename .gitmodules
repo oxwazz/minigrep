@@ -1,0 +1,3 @@
+[submodule "rust/4-actix-basic-crud"]
+	path = rust/4-actix-basic-crud
+	url = https://github.com/oxwazz/actix-basic-crud
